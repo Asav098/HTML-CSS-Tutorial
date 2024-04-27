@@ -1,0 +1,23 @@
+.red {
+    background-color:rgb(80, 76, 76);
+    width: 300px;
+    height: 90px;
+   
+}
+.install {
+    padding-top: 10px;
+    font-size: 20px;
+    padding-left: 10px;
+    color: wheat;
+    font-weight: bold;
+    margin-bottom: 0px;
+    
+}
+.add {
+    padding-top: 0px;
+    margin-top: 5px;
+   
+    padding-left: 10px;
+    color: grey;
+
+}
